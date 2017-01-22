@@ -70,7 +70,6 @@ glasgow.wgs84.f <- merge(glasgow.wgs84.f, glasgow.wgs84@data, by.x = "Data_Zone"
 glasgow.b1 +
   geom_polygon(data = glasgow.wgs84.f, aes(x = long, y = lat, group = group, fill =  SIMD16_Rank), alpha = 0.8)
 
-
 # rm(postcodes, glasgow.wgs84.f, glasgow.wgs84, SIMDIndicator, wardwatcher, glasgow, glasgow.b1, b, longlat, SIMDWardwatcher, x, surviveddied, spatialdata, ggGlasgow)
 # rm(AQUA, BLACK, BLUE, CLRS, FUCHSIA, GRAY, GREEN, LIME, MAROON, NAVY, OLIVE, ORANGE, PURPLE, RED, SILVER, TEAL, YELLOW)
 # rm(x)
