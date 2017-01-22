@@ -42,3 +42,6 @@ glasgow.wgs84.f <- merge(glasgow.wgs84.f, glasgow.wgs84@data, by.x = "Data_Zone"
 
 
 # rm(glasgow.wgs84.f, glasgow.wgs84, glasgow, glasgow.b1, b, x)
+# rm(postcodes, glasgow.wgs84.f, glasgow.wgs84, SIMDIndicator, wardwatcher, glasgow, glasgow.b1, b, longlat, SIMDWardwatcher, x, surviveddied, spatialdata, ggGlasgow)
+# rm(AQUA, BLACK, BLUE, CLRS, FUCHSIA, GRAY, GREEN, LIME, MAROON, NAVY, OLIVE, ORANGE, PURPLE, RED, SILVER, TEAL, YELLOW)
+# rm(x)
