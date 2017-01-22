@@ -43,4 +43,4 @@ For all the datasets, go to the links above. I have not attached the freemaptool
 1) Not to sure about their usage policy
 2) The csv file's 90mb
 
-For just the spatial data itself, go to
+For just the spatial data itself, go to the folder maps for the shapefiles, and fortifiedglasgow.Rda for the dataframe for ggplot
