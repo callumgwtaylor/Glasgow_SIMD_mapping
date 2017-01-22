@@ -4,7 +4,7 @@ Glasgow_SIMD_mapping
 Recreating maps of Glasgow with the Scottish Index of Multiple Deprivation in R
 ------
 
-![map](/Rplot.png)
+![map](/squareplot.png)
 
 Glasgow and the Scottish Government have some great open access data available online, and I needed to use some in a project at work.
 I wanted to look at the Scottish Index of Multiple Deprivation for Glasgow City, and use R to look at it further.
