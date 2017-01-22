@@ -40,8 +40,19 @@ glasgow.wgs84.f <- merge(glasgow.wgs84.f, glasgow.wgs84@data, by.x = "Data_Zone"
 
 ## But that's it now done! glasgow.wgs84.f is the fortified dataframe we can use in ggplot, and glasgow.wgs84 are the shape files plotted on a gps longlat, allowing us to use them.
 
+<<<<<<< HEAD
 
 # rm(glasgow.wgs84.f, glasgow.wgs84, glasgow, glasgow.b1, b, x)
 # rm(postcodes, glasgow.wgs84.f, glasgow.wgs84, SIMDIndicator, wardwatcher, glasgow, glasgow.b1, b, longlat, SIMDWardwatcher, x, surviveddied, spatialdata, ggGlasgow)
 # rm(AQUA, BLACK, BLUE, CLRS, FUCHSIA, GRAY, GREEN, LIME, MAROON, NAVY, OLIVE, ORANGE, PURPLE, RED, SILVER, TEAL, YELLOW)
 # rm(x)
+=======
+<<<<<<< HEAD
+
+# rm(glasgow.wgs84.f, glasgow.wgs84, glasgow, glasgow.b1, b, x)
+=======
+# rm(postcodes, glasgow.wgs84.f, glasgow.wgs84, SIMDIndicator, wardwatcher, glasgow, glasgow.b1, b, longlat, SIMDWardwatcher, x, surviveddied, spatialdata, ggGlasgow)
+# rm(AQUA, BLACK, BLUE, CLRS, FUCHSIA, GRAY, GREEN, LIME, MAROON, NAVY, OLIVE, ORANGE, PURPLE, RED, SILVER, TEAL, YELLOW)
+# rm(x)
+>>>>>>> 915f2e1317a7fb6e24c895628e6d27556901fe6e
+>>>>>>> c2f25bcaf056bbfca36c18f40b48e353adef35da
