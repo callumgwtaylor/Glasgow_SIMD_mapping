@@ -44,12 +44,12 @@ By combining all three we're able to plot the SIMD data using R far easier.
 
 For a copy of the code for this, go to Glasgow_SIMD_Mapping.R
 
-For all the datasets, go to the links above. I have not uploaded the freemaptools csv as:
+For the preexisting datasets, go to the links above. I have not uploaded the freemaptools csv as:
 
 1. Not too sure about their usage policy
 2. The file's 90mb
 
-For just the spatial data itself:
+For the spatial data I've adapted:
 
 1. go to the folder 'maps' for the shapefiles
 2. fortifiedglasgow.Rda for the dataframe for ggplot
