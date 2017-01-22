@@ -24,6 +24,7 @@ http://geotheory.co.uk/blog/2013/12/05/british-national-grid-transformation-and-
 http://stackoverflow.com/questions/3650636/how-to-attach-a-simple-data-frame-to-a-spatialpolygondataframe-in-r
 https://rpubs.com/nickbearman/r-google-map-making
 https://github.com/Robinlovelace/Creating-maps-in-R
+http://gis.stackexchange.com/questions/162019/how-to-export-a-dataset-with-spatialpolygonsdataframe-as-a-shapefile
 
 There were a couple of other blog posts that I found really useful at the time and can't find again now (a few weeks after first doing this), if you see (or if you wrote!) something that I was clearly using please let me know and I'll add it to the list. Again, not trying to pretend this is any original work, just wanted to save others the effort.
 
