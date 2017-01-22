@@ -12,7 +12,7 @@ glasgow.b1 <- ggmap(get_map(location = b, color = "bw"))
 # glasgow.b1 +
 #   geom_polygon(data = glasgow.wgs84.f, aes(x = long, y = lat, group = group, fill =  SIMD16_Rank), alpha = 0.8)
 
-
+# I like these colours https://github.com/mrmrs/colors
 NAVY <- '#001f3f'
 BLUE <- '#0074D9'
 AQUA <- '#7FDBFF'
@@ -31,6 +31,7 @@ GRAY <- '#AAAAAA'
 SILVER <- '#DDDDDD'
 
 map <- glasgow.b1 + geom_polygon(data = glasgow.wgs84.f, aes(x = long, y = lat, group = group, fill =  SIMD16_Rank), alpha = 0.8)
+# but ive tried to match the SIMD reports colours for this example
 map + scale_fill_gradient(low = "#B04475", high = "#F6F3FA") + theme(axis.title.x=element_blank(), 
                                                                      axis.text.x=element_blank(),
                                                                      axis.ticks=element_blank(),
