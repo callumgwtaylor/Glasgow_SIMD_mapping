@@ -1,6 +1,8 @@
 Glasgow_SIMD_mapping
 ======
 
+**This is old! There are better ways to do this! I just haven't got round to uploading my new method yet!**
+
 Recreating maps of Glasgow with the Scottish Index of Multiple Deprivation in R
 ------
 
